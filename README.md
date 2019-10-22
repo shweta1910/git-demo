@@ -2,13 +2,5 @@
 
 This is first line in this repo.
 
-##Ipsum Below
-
-Tatttooed banh mi bespoke DIY salvia deep analysis of what you are doing , why you are doing
-what you will achieve
-how you are going to receive it
-
-
-so the changes are made, lets see how they look.
-
-
+## Website 
+Details of files for my website.
